@@ -55,3 +55,7 @@ sense = SenseHat()
 h = sense.humidity # gets us the the humidity reading and stores it in the variable h
 
 print(h) # this prints to the screen the humidity stored in the variable h.
+
+# go to http://sense-emu.readthedocs.io/en/v1.0/examples.html#humidity to get other examples of code
+# Challenge:
+# Can you make the room temperature scroll across the SenseHat LED matrix? 
