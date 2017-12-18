@@ -4,6 +4,8 @@
 # - Turtle
 # - SenseHat_emu
 
+# ---------------------------------------------------- #
+
 # The trick here is to use google a lot to see how other people have used the code you are trying to import. Don't be shy to google your question!
 
 # There is a python file called 'random' that lets you get a random number.
@@ -58,4 +60,4 @@ print(h) # this prints to the screen the humidity stored in the variable h.
 
 # go to http://sense-emu.readthedocs.io/en/v1.0/examples.html#humidity to get other examples of code
 # Challenge:
-# Can you make the room temperature scroll across the SenseHat LED matrix? 
+# Can you make the room temperature scroll across the SenseHat LED matrix?
