@@ -47,6 +47,11 @@ forward(100)
 # The Raspberry Pi can be connected to a SenseHat. This let's it sense things in its environment like: temperature, pressure, humidity, acceleration, and more...
 # If you don't have a SenseHat you can use the emulator by importing it like this:
 
-import SenseHat_emu
+from sense_emu import SenseHat
 
 # now we can get readings of humidity or temperature from the emulator like this:
+sense = SenseHat()
+# This stores the SenseHat() family of functions in the variable sense
+h = sense.humidity # gets us the the humidity reading and stores it in the variable h
+
+print(h) # this prints to the screen the humidity stored in the variable h.
