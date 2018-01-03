@@ -10,7 +10,7 @@
 # -------------------------------------------- #
 
 # Comments
-# the "hash-tag" # symbol is used to turn text into a comment that a comupter think of as code to run
+# the "hash-tag" # symbol is used to turn text into a comment. Without the hash-tag, the computer witll try to run the code but an error will occur.
 
 # -------------------------------------------- #
 
