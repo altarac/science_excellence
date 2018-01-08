@@ -43,7 +43,7 @@ print(a+5)
 print('hello world')
 
 # we can store text in a variable also like:
-w = 'hello everyone'.
+w = 'hello everyone'
 # Now what happens if we print the variale w? Try it: print(w)
 
 # -------------------------------------------- #
