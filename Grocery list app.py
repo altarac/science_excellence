@@ -1,4 +1,5 @@
 # make websites with python: https://flask.palletsprojects.com/en/1.1.x/quickstart/
+# you need to download the templates folder for this to work
 
 from flask import Flask, escape, request, render_template
 
