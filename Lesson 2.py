@@ -46,6 +46,7 @@ forward(100)
 # ------------------------------------------ #
 
 # SenseHat_emu
+# Do not pluf in sense hat if the Pi is also plugged in.
 # The Raspberry Pi can be connected to a SenseHat. This let's it sense things in its environment like: temperature, pressure, humidity, acceleration, and more...
 # If you don't have a SenseHat you can use the emulator by importing it like this:
 
